@@ -1,0 +1,4 @@
+﻿  Assembling Source.asm...
+Source.asm(211): warning A6004: procedure argument or local not referenced : lParam
+  Zad1.vcxproj -> D:\masm32 TextEditor\Lab10\Debug\Zad1.exe
+  Zad1.vcxproj -> D:\masm32 TextEditor\Lab10\Debug\Zad1.pdb (Full PDB)
